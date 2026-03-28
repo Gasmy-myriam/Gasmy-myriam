@@ -71,13 +71,14 @@
 </p>
 
 ---
+## 🌍 Languages  
 
-## 🌍 Languages
-
-🇬🇧 English — Fluent
-🇫🇷 French — Fluent
-🇩🇪 German — Proficient
+<p align="center">
+🇬🇧 English — Fluent &nbsp;&nbsp;&nbsp;
+🇫🇷 French — Fluent &nbsp;&nbsp;&nbsp;
+🇩🇪 German — Proficient &nbsp;&nbsp;&nbsp;
 🇹🇳 Arabic — Native
+</p>
 
 ---
 
